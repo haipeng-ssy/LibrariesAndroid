@@ -6,7 +6,7 @@
 
 //数据保存
 1.SharePrefrens的数据保存获取问题
-2.Sqlite
+2.Sqlite，DB(OutAppDB数据库新建在app外面，InerAppDB数据库新建在app里面)
 3.File
 
 //缓存，内存溢出问题，图片加载，视频加载
@@ -22,8 +22,9 @@
 2.HttpClientUtil
 
 //常规信息，参数，数据
- 1.版本号判读，BuildVersion 
+ 1.Version(app version,phone id)
  2.屏幕大小及dp->px等的转换问题
+ 3.sdkVersion(android版本号)
  
  //数字编码
  1.正则
