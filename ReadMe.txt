@@ -3,6 +3,7 @@
 
 //UI问题
 1.文本排列，TextView，TextUtil
+2.BitmapUtil Bitmap的相关转换
 
 //数据保存
 1.SharePrefrens的数据保存获取问题
@@ -27,7 +28,7 @@
  3.sdkVersion(android版本号)
  
  //数字编码
- 1.正则
+ 1.正则 InputChecker对输入的字符正则匹配
  2.汉字转拼音
  
  
